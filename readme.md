@@ -70,7 +70,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 
 ## Programming Languages
-
+- [JavaScript2](https://github.com/sorrycc/awesome-javascript)
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
 	- [Standard Style](https://github.com/feross/awesome-standard)
